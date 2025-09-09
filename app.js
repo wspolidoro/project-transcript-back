@@ -1,4 +1,4 @@
-// app.js - Ponto de entrada principal da API
+// app.js - Ponto de entrada principal da API:
 console.log("Iniciando app.js...");
 
 // 1. Carrega as variáveis de ambiente PRIMEIRO de tudo.
